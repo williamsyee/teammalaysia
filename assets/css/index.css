@@ -4,6 +4,13 @@ body {
   text-align: left;
 }
 
+.banner {
+   width:80vw;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 0;
+}
+
 .link1:hover {
     background-color: rgba(240,240,240,0.35);
     color: black;
